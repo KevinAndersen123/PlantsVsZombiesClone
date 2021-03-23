@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 92233b153dc22ec40a969019e18154ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1466746937553515175
+    second: CherryExplosion_0
+  - first:
+      213: -5346319739715516652
+    second: CherryExplosion_1
+  - first:
+      213: -5152310723805237989
+    second: CherryExplosion_2
+  - first:
+      213: 7303274923287075686
+    second: CherryExplosion_3
+  - first:
+      213: 3641955668343670926
+    second: CherryExplosion_4
+  - first:
+      213: 6584256335014724094
+    second: CherryExplosion_5
+  - first:
+      213: 5363245632906438412
+    second: CherryExplosion_6
+  - first:
+      213: -7843550733630921420
+    second: CherryExplosion_7
+  - first:
+      213: -6180876032263787007
+    second: CherryExplosion_0
+  - first:
+      213: 5095531410974953721
+    second: CherryExplosion_1
+  - first:
+      213: -183087978945073436
+    second: CherryExplosion_2
+  - first:
+      213: 9087874872216813433
+    second: CherryExplosion_3
+  - first:
+      213: 5438986025581807781
+    second: CherryExplosion_4
+  - first:
+      213: 6921232891351677479
+    second: CherryExplosion_5
+  - first:
+      213: -8887678987419472269
+    second: CherryExplosion_6
+  - first:
+      213: 3620480257134018114
+    second: CherryExplosion_7
+  - first:
+      213: 516592728511075277
+    second: CherryExplosion_8
+  - first:
+      213: -902089671477614506
+    second: CherryExplosion_9
+  - first:
+      213: -8643783164086813173
+    second: CherryExplosion_10
+  - first:
+      213: -4337987199729318236
+    second: CherryExplosion_11
+  - first:
+      213: -3478294540197223549
+    second: CherryExplosion_12
+  - first:
+      213: -6428961614181847163
+    second: CherryExplosion_13
+  - first:
+      213: 3143194436983158746
+    second: CherryExplosion_14
+  - first:
+      213: 1398919752759647429
+    second: CherryExplosion_15
+  - first:
+      213: 8177714283138130273
+    second: CherryExplosion_16
+  - first:
+      213: -541649505890864049
+    second: CherryExplosion_17
+  - first:
+      213: 7855894280891219753
+    second: CherryExplosion_18
+  - first:
+      213: 1698950109800314517
+    second: CherryExplosion_19
+  - first:
+      213: -4501124587146277937
+    second: CherryExplosion_20
+  - first:
+      213: -1398363384718638818
+    second: CherryExplosion_21
+  - first:
+      213: 3255111194194468475
+    second: CherryExplosion_22
+  - first:
+      213: -9080102783506838785
+    second: CherryExplosion_23
+  - first:
+      213: 2758417031990507189
+    second: CherryExplosion_24
+  - first:
+      213: -3514840098400128220
+    second: CherryExplosion_25
+  - first:
+      213: -7991684027569307049
+    second: CherryExplosion_26
+  - first:
+      213: 7024764436571385580
+    second: CherryExplosion_27
+  - first:
+      213: 4555541367254360867
+    second: CherryExplosion_28
+  - first:
+      213: -306035126654348784
+    second: CherryExplosion_29
+  - first:
+      213: 2846317517673807132
+    second: CherryExplosion_30
+  - first:
+      213: 1098742134486652413
+    second: CherryExplosion_31
+  - first:
+      213: 1972618795536908890
+    second: CherryExplosion_32
+  - first:
+      213: -8778716617704605156
+    second: CherryExplosion_33
+  - first:
+      213: -2358036934186283865
+    second: CherryExplosion_34
+  - first:
+      213: 323069571343276824
+    second: CherryExplosion_35
+  - first:
+      213: -8528425437454782937
+    second: CherryExplosion_36
+  - first:
+      213: -1260510755829398210
+    second: CherryExplosion_37
+  - first:
+      213: -4289879035721733275
+    second: CherryExplosion_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CherryExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 466
+        height: 534
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.3355435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0bb37e6115abe0800000000000000
+      internalID: -1466746937553515175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 582
+        height: 614
+      alignment: 9
+      pivot: {x: 0.49395868, y: 0.3295457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170992d58e0ec5b0800000000000000
+      internalID: -5346319739715516652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 685
+        height: 643
+      alignment: 9
+      pivot: {x: 0.50300795, y: 0.34816992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d272fd1b05f78b0800000000000000
+      internalID: -5152310723805237989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 675
+        height: 633
+      alignment: 9
+      pivot: {x: 0.49955258, y: 0.3480712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5b8b29d17a5560800000000000000
+      internalID: 7303274923287075686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 0
+        width: 658
+        height: 627
+      alignment: 9
+      pivot: {x: 0.49706623, y: 0.33886114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88485b6263da8230800000000000000
+      internalID: 3641955668343670926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 0
+        width: 652
+        height: 640
+      alignment: 9
+      pivot: {x: 0.50293905, y: 0.32716358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10ba6704aff5b50800000000000000
+      internalID: 6584256335014724094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 0
+        width: 675
+        height: 604
+      alignment: 9
+      pivot: {x: 0.48300925, y: 0.34219554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ad88cc731e6a40800000000000000
+      internalID: 5363245632906438412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 29
+        width: 524
+        height: 479
+      alignment: 9
+      pivot: {x: 0.52701014, y: 0.35724303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ac282a2c162390800000000000000
+      internalID: -7843550733630921420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

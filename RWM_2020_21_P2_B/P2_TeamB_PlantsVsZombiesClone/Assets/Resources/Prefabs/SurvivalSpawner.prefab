@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2990050751739042053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2990050751739042055}
+  - component: {fileID: 2990050751739042052}
+  m_Layer: 0
+  m_Name: SurvivalSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2990050751739042055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2990050751739042053}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2990050751739042052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2990050751739042053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963cfef349a5b0b4caa8fbf3c4feded9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalZombie: {fileID: 2187023702246868141, guid: 0bde487c520be9c4292b3462438f865b,
+    type: 3}
+  hardHatZombie: {fileID: 4011058257536139106, guid: d6858064ab263b6418991ac4fb9901be,
+    type: 3}
+  flagZombie: {fileID: 3844877878318147964, guid: 4f55414b1af3a3f489298c23ce33a680,
+    type: 3}
+  floatingZombie: {fileID: 4142587415595609603, guid: d801cc40c64728d4d999208e0a32bbae,
+    type: 3}
+  timeBetweenWaves: 25
+  spawnPositions:
+  - {x: 0, y: 0, z: 0}

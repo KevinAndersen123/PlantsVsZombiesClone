@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: a74575f6b61d96346a3de9c1adeff07a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3859654324111495704
+    second: IcePeashooter-Spritesheet 1_0
+  - first:
+      213: -4382793864732623233
+    second: IcePeashooter-Spritesheet 1_1
+  - first:
+      213: -7434560036749804364
+    second: IcePeashooter-Spritesheet 1_2
+  - first:
+      213: 6453942842695922285
+    second: IcePeashooter-Spritesheet 1_3
+  - first:
+      213: -2618967230677602820
+    second: IcePeashooter-Spritesheet 1_4
+  - first:
+      213: 8717244171390935942
+    second: IcePeashooter-Spritesheet 1_5
+  - first:
+      213: 4111538157377131670
+    second: IcePeashooter-Spritesheet 1_6
+  - first:
+      213: -3730577476155995022
+    second: IcePeashooter-Spritesheet 1_7
+  - first:
+      213: 6230098412583734446
+    second: IcePeashooter-Spritesheet 1_8
+  - first:
+      213: 4545027963384869488
+    second: IcePeashooter-Spritesheet 1_9
+  - first:
+      213: -1994022917855411707
+    second: IcePeashooter-Spritesheet 1_10
+  - first:
+      213: -626380684291993034
+    second: IcePeashooter-Spritesheet 1_11
+  - first:
+      213: 8027834375916421301
+    second: IcePeashooter-Spritesheet 1_12
+  - first:
+      213: -2388055273064871767
+    second: IcePeashooter-Spritesheet 1_13
+  - first:
+      213: 8569400933070042057
+    second: IcePeashooter-Spritesheet 1_14
+  - first:
+      213: 3570564077435054610
+    second: IcePeashooter-Spritesheet 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 475
+        height: 471
+      alignment: 9
+      pivot: {x: 0.53218603, y: 0.10678055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125770982f309530800000000000000
+      internalID: 3859654324111495704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 529
+        width: 484
+        height: 471
+      alignment: 9
+      pivot: {x: 0.54348314, y: 0.10802484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb9d873303d23c0800000000000000
+      internalID: -4382793864732623233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 533
+        width: 479
+        height: 467
+      alignment: 9
+      pivot: {x: 0.46944064, y: 0.08625091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc763c590323d890800000000000000
+      internalID: -7434560036749804364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 521
+        width: 485
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5482905, y: 0.10458943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62b09b22d2019950800000000000000
+      internalID: 6453942842695922285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 524
+        width: 481
+        height: 473
+      alignment: 9
+      pivot: {x: 0.55173546, y: 0.11006742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda219fd2f87abd0800000000000000
+      internalID: -2618967230677602820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 529
+        width: 481
+        height: 469
+      alignment: 9
+      pivot: {x: 0.58368945, y: 0.088015296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e910536fd9f870800000000000000
+      internalID: 8717244171390935942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 537
+        width: 477
+        height: 449
+      alignment: 9
+      pivot: {x: 0.60894096, y: 0.09411499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949de69b2e1f0930800000000000000
+      internalID: 4111538157377131670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 534
+        width: 494
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5561914, y: 0.07246794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c06a60d835a3cc0800000000000000
+      internalID: -3730577476155995022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 518
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac47cd6f71c57650800000000000000
+      internalID: 6230098412583734446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 482
+        height: 482
+      alignment: 9
+      pivot: {x: 0.5457813, y: 0.11848957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b5c32ade231f30800000000000000
+      internalID: 4545027963384869488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 355
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028d3398bec354e0800000000000000
+      internalID: -1994022917855411707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 460
+        height: 514
+      alignment: 9
+      pivot: {x: 0.5586801, y: 0.11795299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321c9a1616ae47f0800000000000000
+      internalID: -626380684291993034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 480
+        height: 506
+      alignment: 9
+      pivot: {x: 0.4732887, y: 0.09991006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b00b24e4d8986f60800000000000000
+      internalID: 8027834375916421301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 100
+        width: 406
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a848f0b16cebded0800000000000000
+      internalID: -2388055273064871767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 57
+        width: 430
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37a89feb0ace670800000000000000
+      internalID: 8569400933070042057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePeashooter-Spritesheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 22
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a694b5c113d8130800000000000000
+      internalID: 3570564077435054610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

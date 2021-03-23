@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &155773019234699606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7814608368321390648}
+  - component: {fileID: 370024816888408023}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7814608368321390648
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155773019234699606}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &370024816888408023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155773019234699606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9543d497af2ba3a44b9285e294ab355d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MainBG
+    clip: {fileID: 8300000, guid: ce5576dc32516e24bb13e667632b98da, type: 3}
+    volume: 0.257
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 24300002, guid: 48d9310b6728ab24f95b6f6385c8955e, type: 2}
+    source: {fileID: 0}
+  - name: Crow
+    clip: {fileID: 8300000, guid: 89f1865aa80ab3443b420e132368ec8e, type: 3}
+    volume: 0.135
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: BG_FinalWave
+    clip: {fileID: 8300000, guid: c60e0916990a17849b93c954d8c426b3, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 24300002, guid: 48d9310b6728ab24f95b6f6385c8955e, type: 2}
+    source: {fileID: 0}
+  - name: BG_Gameplay
+    clip: {fileID: 8300000, guid: 4411c602f5f0d4646966ee4061d2ded8, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 24300002, guid: 48d9310b6728ab24f95b6f6385c8955e, type: 2}
+    source: {fileID: 0}
+  - name: Achievment
+    clip: {fileID: 8300000, guid: 3ce8fb37b7d8a5b43ab0a959631d6cac, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: CherryExplosion
+    clip: {fileID: 8300000, guid: 622d6a38b00c0244789af3a949b5eb6a, type: 3}
+    volume: 0.4
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Gameover
+    clip: {fileID: 8300000, guid: 7556a9ebcf3d1ea49812a1ceb27660ad, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: FinalWave
+    clip: {fileID: 8300000, guid: 3097c83895bd34a4faf0bcaf3cd5111f, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: IncomingZombies
+    clip: {fileID: 8300000, guid: 9b02854dfc74df64f85a8a50b5e18831, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: LawnMower
+    clip: {fileID: 8300000, guid: b9a413d09dd370441b6cfe722d5f5e71, type: 3}
+    volume: 0.4
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: LevelComplete
+    clip: {fileID: 8300000, guid: 15e78e00938ef9141add09b5c28a0722, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Select
+    clip: {fileID: 8300000, guid: 113ad0773ed43f64d82737ff9abd3d99, type: 3}
+    volume: 1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Victory
+    clip: {fileID: 8300000, guid: c49a371e622a8914bb96e3a94af3f366, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Zombie1
+    clip: {fileID: 8300000, guid: f9e71c859dae500479f658b1e0da92f8, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Zombie2
+    clip: {fileID: 8300000, guid: 07b4d5facecbf0b4c935625d3ca37c1d, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: Zombie3
+    clip: {fileID: 8300000, guid: 31bbe6caec78c6841a8a183b0fc22498, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: ZombieBite1
+    clip: {fileID: 8300000, guid: 4648f0231a9b2ac408b2a08ee5ab0068, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}
+  - name: ZombieBite2
+    clip: {fileID: 8300000, guid: eaf2b2dda5cac374c8450f8e1cfec777, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 24300002, guid: 8c29389c8ffa07c47aaf63c60b1ff2c6, type: 2}
+    source: {fileID: 0}

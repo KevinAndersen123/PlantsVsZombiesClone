@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d07b029ee37879c4b88700c4bbfe2338
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasGameObject: {instanceID: 0}
+  - selectionPanelGameObject: {instanceID: 0}
+  - scrollArea: {instanceID: 0}
+  - EventSystem: {instanceID: 0}
+  - parentPanel: {instanceID: 0}
+  - imageContainer: {instanceID: 0}
+  - prefabButtonToMenu: {fileID: 1685125973170437496, guid: c5551c3c011f0df49813bccb54896659,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
